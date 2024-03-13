@@ -3,7 +3,7 @@
 <img src="https://i.imgur.com/pU5A58S.png" alt="Microsoft Active Directory Logo"/>
 </p>
 
-<h1>On-premises Active Directory Deployed in Azure</h1>
+<h1>On-premises Active Directory Deployed in Azure (Part Two)</h1>
 This is part two of a tutorial that outlines the implementation of on-premises Active Directory within Azure Virtual Machines. In this segment, I'll continue by installing Active Directory Domain Services on the Windows Server 2022 Virtual Machine, turning it into a domain controller, and setting up an admin account named "Jane Doe". <br />
 <h2>Environments and Technologies Used</h2>
 
